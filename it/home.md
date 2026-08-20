@@ -2,24 +2,17 @@
 title: Home
 description: 
 published: true
-date: 2022-12-28T22:04:39.052Z
-tags: 
+date: 2024-01-03T15:59:55.785Z
+tags: public
 editor: markdown
 dateCreated: 2022-12-28T22:03:40.008Z
 ---
 
 # Home page
 
-> Stavi cercando [La compagnia del Trabattello](http://davidepalma.com/) del mio omonimo?
-
 Benvenuto sulla wiki/blog di Davide Palma, aka eldavo
 ~(nickname\ usato\ dappertutto\ quando\ non\ occupato,\ altrimenti\ aggiungo\ 'o'\ o\ al\ massimo\ .exe,\ _exe\ ...)~
 
-<a rel="me" href="https://mastodon.uno/@eldavo">Mastodon</a>
-
-<a href="https://my.flightradar24.com/eldavo"><img src="https://banners-my.flightradar24.com/eldavo.png" alt="My Flightdiary.net profile" /></a>
-
-<a href="https://my.flightradar24.com/eldavo"><img src="https://banners-my.flightradar24.com/eldavo-future.png" alt="My Flightdiary.net profile" /></a>
 > Questa wiki è un work in progress. La sua struttura potrebbe cambiare.
 {.is-info}
 
@@ -27,27 +20,43 @@ Benvenuto sulla wiki/blog di Davide Palma, aka eldavo
 
 ## Su di me
 
-Ho 22 anni [(di già???)](https://www.youtube.com/watch?v=eT3BFzSD6YY) e mi diverto con l'Informatica da sempre.  
-Sono di Apricena, un piccolo paesino con una mentalità estremamente aperta e progressista. ~/s~
+Ho 24 anni [(di già???)](https://www.youtube.com/watch?v=eT3BFzSD6YY) e mi diverto con l'informatica da sempre.  
 Su Internet cerco sempre di mettere materiale "unico", ovvero che nessuno ha caricato prima d'ora.
 
+### Cosa sai fare?
+**Imparare rapidamente**
+Gestione sistemi Linux (installazione, manutenzione, diagnosi)
+Programmazione di un po' di tutto, in vari linguaggi (Dart/Flutter, Python, C, C++... gli altri si riprendono in mano facilmente)  
 
-### Biografia informatica
 
-Da bambino distrussi più volte Windows XP.
-A 12 anni la prima installazione di Ubuntu, seguita subito dopo da Arch e qualche anno dopo di Gentoo.
-Imparo quindi configurazioni e come funzionano gli OS.
-All'Università e al Collegio imparo a programmare. (C, C++, Java, Scala, Typescript e l'intramontabile pitone)
+### Cronologia
+- 2022-202x: Magistrale in Ingegneria Informatica a Modena
 
-### Cose notevoli che ho fatto finora
+- 2018-2022: Triennale in Informatica a Bari
+  Ho vissuto nel collegio di merito [Poggiolevante](https://www.poggiolevante.it/), realtà ahime poco conosciuta ma davvero molto interessante
+- 2000-2018: Sono cresciuto ad [Apricena (FG)](https://it.wikipedia.org/wiki/Apricena).
+  Liceo scientifico IIS Federico II, corso C.
 
-[Decrypter backup whatsapp](https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter)
+  Ho fatto la triennale in Informatica a Bari, vivendo  e sto facendo la magistrale in Ingegneria Informatica a Modena.
+  
 
-Collegio di Merito Poggiolevante
+
+### Cose carine che ho fatto finora
+
+#### Progetti per UniMORE
+
+[Ossigenio](https://github.com/ElDavoo/ossigenio)
+
+#### Progetti per Poggiolevante
+
 [Progetti](http://asirid.it/progetti) a cui ho collaborato:
 Rilevazione targhe, puccia perfetta, invio ma non consumo
 widget per calendario google
-sensori wifi
+sensori wifi  
+
+#### Altri
+
+[Decrypter backup whatsapp](https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter)
 
 ### Playlist che uso per studiare
 
@@ -55,21 +64,18 @@ sensori wifi
 - [Funky Jazz, mio preferito, ma ho imparato tutto i brani](https://www.youtube.com/watch?v=e9Fis1br3Sc)
 
 
-### Contatto
+<a href="https://my.flightradar24.com/eldavo"><img src="https://banners-my.flightradar24.com/eldavo.png" alt="My Flightdiary.net profile" /></a>
+
+<a href="https://my.flightradar24.com/eldavo"><img src="https://banners-my.flightradar24.com/eldavo-future.png" alt="My Flightdiary.net profile" /></a>
+
+
+### Contattami
 
 > Disprezzo fortemente i messaggi vocali (e anche le telefonate se non ci conosciamo)
 {.is-warning}
 
-posta chiocciola davidepalma.it
+> [Non dire solamente "ciao"](https://nohello.net/it/), altrimenti il tuo messaggio verrà considerato spam: Dimmi direttamente di cosa hai bisogno.
+{.is-warning}
 
----
+Contattami all'indirizzo posta chiocciola davidepalma.it
 
-## Playground
-
-In questa sezione ci sono vari testi di prova (formattazione etc)
-
-Premi <kbd>Alt+F4</kbd> per aiuto
-
-`rm -rf /*`
-
-[Leggi i miei segreti qui](/it/private/test)

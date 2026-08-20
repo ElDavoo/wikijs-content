@@ -2,7 +2,7 @@
 title: Come fare traccia basi
 description: 
 published: true
-date: 2022-12-28T21:36:10.445Z
+date: 2022-12-31T12:27:15.525Z
 tags: public, disable-comments
 editor: markdown
 dateCreated: 2022-12-28T21:22:25.520Z

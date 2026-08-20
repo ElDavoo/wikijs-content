@@ -2,10 +2,10 @@
 title: Domande teoria basi
 description: 
 published: true
-date: 2022-12-28T21:58:35.258Z
+date: 2022-12-31T12:27:50.558Z
 tags: public, disable-comments
 editor: markdown
-dateCreated: 2022-12-28T21:22:12.087Z
+dateCreated: 2022-12-31T12:20:15.807Z
 ---
 
 # 2 - Introduzione

@@ -2,7 +2,7 @@
 title: Tips per l'università
 description: 
 published: true
-date: 2022-12-28T22:00:24.979Z
+date: 2022-12-31T12:26:39.791Z
 tags: public, enable-comments
 editor: markdown
 dateCreated: 2022-12-28T21:19:53.827Z

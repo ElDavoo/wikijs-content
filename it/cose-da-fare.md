@@ -2,10 +2,10 @@
 title: Cose che vorrei fare
 description: Cose che vorrei fare quando ho tempo
 published: true
-date: 2022-12-28T22:01:05.580Z
+date: 2022-12-31T12:27:37.068Z
 tags: public, disable-comments
 editor: markdown
-dateCreated: 2022-12-28T21:19:08.208Z
+dateCreated: 2022-12-31T12:19:10.535Z
 ---
 
 Lista di cose in ordine in cui mi sono venute in mente

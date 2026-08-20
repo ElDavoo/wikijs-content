@@ -2,7 +2,7 @@
 title: Joplin test
 description: Confronto fra joplin e wikijs
 published: true
-date: 2022-12-28T22:02:30.508Z
+date: 2022-12-31T12:26:29.397Z
 tags: public
 editor: markdown
 dateCreated: 2022-12-28T21:19:37.483Z
